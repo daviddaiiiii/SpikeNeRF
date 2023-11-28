@@ -1,3 +1,3 @@
 # SpikeNeRF
 SpikeNeRF
-dataset:https://huggingface.co/datasets/chunidvd/SpikeNeRF/tree/main
+dataset: https://huggingface.co/datasets/anonymous6181/SpikeNeRF/tree/main
